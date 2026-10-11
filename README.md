@@ -1,6 +1,6 @@
 # Pauls Physiklabor
 
-Eine kleine Lernseite für die Vorbereitung auf einen Physiktest zu Wärme und Temperatur.
+Eine kleine Lernseite für alle, die ihr Wissen zu Wärme, Teilchen und Temperatur testen oder auffrischen möchten.
 
 **[Übungstest öffnen](https://tobsent.github.io/pauls-physiklabor/)**
 
